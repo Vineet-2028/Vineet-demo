@@ -1,0 +1,55 @@
+body{
+background-color:rgb(160, 89, 89)
+;
+}
+.container{
+  margin-top:80px;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:white;
+  width:400px;
+  border-radius:5px;
+  box-shadow:0 0 5px;
+  font-size:20px;
+  padding:20px; 
+  display: flex;
+  flex-direction: column;
+}
+.Job{
+  text-align:center;
+}
+.box{
+  width:400px;
+  height:80px;
+  border:solid red 1px;
+  border-radius:5px;
+}
+
+.Submit{
+  width:400px;
+  background-color:rgb(17, 155, 17);
+  color:white;
+  height:35px;
+  border-radius:5px;
+}
+
+#Name{
+  width:400px;
+  height:30px;
+  border:solid red 1px;
+  border-radius:5px;
+}
+
+#Email{
+  width:400px;
+  height:30px;
+  border:solid red 1px;
+  border-radius:5px;
+}
+
+#position{
+  width:400px;
+  height:35px;
+  border:solid red 1px;
+  border-radius:5px;
+}
